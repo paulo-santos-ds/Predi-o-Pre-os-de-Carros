@@ -5,8 +5,10 @@ O objetivo é realizar predições em um aplicativo de vendas de carros. A quali
 
 ## 🛠️ Ferramentas e Bibliotecas Utilizadas
 - Python: Linguagem principal utilizada para a análise
-- Pandas e Numpy: Manipulação e análise de dados
-- Sklearn, lightgbm: Construção de modelo de machine learning
+- Pandas: Manipulação e análise de dados
+- Numpy: Manipulação e análise de dados
+- Sklearn: Construção de modelo de machine learning
+- lightgbm: Construção de modelo de machine learning
 - Matplotlib.pyplot e Seaborn: Construção de gráficos
 - Time: Metrificar tempo de execução
 
