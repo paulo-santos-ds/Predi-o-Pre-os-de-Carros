@@ -77,3 +77,9 @@ Para este projeto usamos os modelos de lightGBM, Floresta Aleatória, Árvore de
 https://projeto-vehicles-5.onrender.com
 
 
+## 🛠️ Instalação
+
+1. Clone este repositório
+2. Instale as dependências listadas acima
+3. Execute o aplicativo:
+
